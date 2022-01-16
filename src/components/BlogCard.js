@@ -11,7 +11,7 @@ import { AiFillHeart } from "react-icons/ai";
 import { BiComment } from "react-icons/bi";
 import { FaUserCircle } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
-import { useContext } from "react/cjs/react.development";
+import { useContext } from "react";
 import { AuthContext } from "../contexts/AuthContext";
 import "./BlogCard.css";
 import { successNote } from "../helpers/toastNotify";
