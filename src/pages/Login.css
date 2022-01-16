@@ -1,0 +1,10 @@
+label {
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-weight: 900;
+  font-size: larger;
+}
+.btn {
+  font-size: larger;
+  background-color: #046582;
+}

@@ -1,0 +1,36 @@
+.navbar {
+  background-color: #046582;
+  height: 10vh;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 5px;
+  align-items: center;
+  padding: 20px;
+}
+#icon {
+  width: 40px;
+  height: 40px;
+  color: #f5deb3;
+  color: ;
+}
+#navbar-logo {
+  width: 50px;
+}
+.navbar h1 {
+  color: #f5deb3;
+  font-size: 50px;
+}
+#title {
+  text-decoration: none;
+}
+.person-icon {
+  width: 50px;
+}
+@media screen and (max-width: 550px) {
+  .navbar h1 {
+    font-size: 40px;
+  }
+  #title h1 span {
+    display: none;
+  }
+}

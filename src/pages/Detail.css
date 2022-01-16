@@ -1,0 +1,36 @@
+.details {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.blogcard {
+  width: 70%;
+  height: 100vh;
+  border: 1px solid rgb(212, 201, 201);
+  margin: 10px;
+}
+
+.img {
+  height: 30%;
+}
+
+#detailsimg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.content {
+  background-color: rgb(189, 187, 187);
+}
+.del-up {
+  display: flex;
+  justify-content: space-around;
+
+  margin-bottom: 20px;
+}
+.del-up button {
+  width: 80px;
+}
+.likes {
+  height: 30px;
+}

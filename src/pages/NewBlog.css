@@ -1,0 +1,38 @@
+.form-container {
+  display: flex;
+  justify-content: center;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 90vh;
+  width: 60%;
+}
+.form input {
+  width: 50%;
+  height: 40px;
+  margin: 15px;
+  border: 1px solid rgb(167, 85, 85);
+  border-radius: 7px;
+  font-family: "Amatic SC", cursive;
+  color: black;
+  font-weight: 800;
+}
+#btn-sbmt {
+  width: 50%;
+  height: 40px;
+  border: 1px solid rgb(22, 21, 21);
+  border-radius: 7px;
+  background-color: #046582;
+}
+#content {
+  height: 100px;
+}
+h1 {
+  font-family: "Amatic SC", cursive;
+}
+button {
+  font-family: "Amatic SC", cursive;
+  font-size: 20px;
+}
