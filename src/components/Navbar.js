@@ -1,5 +1,5 @@
 import React from "react";
-import { useContext } from "react/cjs/react.development";
+import { useContext } from "react";
 import { useNavigate } from "react-router-dom";
 import { auth } from "../helpers/firebase";
 import { AuthContext } from "../contexts/AuthContext";
