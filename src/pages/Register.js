@@ -23,7 +23,7 @@ const Register = () => {
   return (
     <div className="form-container">
       <div className="form">
-        <h1>─── REGISTER ───</h1>
+        <h1>REGISTER</h1>
         <label htmlFor="email" className="form-label display-4">
           Email
         </label>
