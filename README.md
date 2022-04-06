@@ -50,7 +50,7 @@ SOLUTION
 └── yarn.lock
 ```
 ## How To Use;
-$git clone https://github.com/aemingenc/REACT-AEG-Blog-App
+$git clone https://github.com/DMTBusra/BlogApp-react.git
 
 
 # Install Dependencies;
