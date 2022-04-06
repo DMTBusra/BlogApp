@@ -57,6 +57,10 @@ $git clone https://github.com/aemingenc/REACT-AEG-Blog-App
 - yarn install
 - yarn add botstrap
 - yarn add react-router-dom
+- yarn add react-toastify
+- yarn add semantic-ui-react
+- yarn add @mui/material @emotion/react @emotion/styled
+- yarn add react-icons
 
 
 ## Objective
