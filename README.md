@@ -49,14 +49,21 @@ SOLUTION
 ├── package.json
 └── yarn.lock
 ```
+## How To Use;
+$git clone https://github.com/aemingenc/REACT-AEG-Blog-App
 
+
+# Install Dependencies;
+- yarn install
+- yarn add botstrap
+- yarn add react-router-dom
 
 
 ## Objective
 
 Build a Register FireBlog App using ReactJS.
 
-### At the end of the project, following topics are to be covered;
+### Build with;
 
 - HTML
 
@@ -65,6 +72,8 @@ Build a Register FireBlog App using ReactJS.
 - JS
 
 - ReactJS
+
+- Firebase 
 
 
 
